@@ -1,0 +1,1 @@
+# Karabiner-config-Caps-Lock-Ctrl-Esc-IJKL
