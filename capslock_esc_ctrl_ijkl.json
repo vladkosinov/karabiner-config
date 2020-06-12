@@ -116,7 +116,12 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "left_arrow"
+            "key_code": "left_arrow",
+            "modifiers": {
+                "optional": [
+                    "any"
+                ]
+            }
           },
           "to": [
             {
@@ -127,7 +132,11 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "right_arrow"
+            "key_code": "right_arrow",
+            "modifiers": {
+                "optional": [
+                    "any"
+                ]
           },
           "to": [
             {
@@ -138,7 +147,11 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "up_arrow"
+            "key_code": "up_arrow",
+            "modifiers": {
+                "optional": [
+                    "any"
+                ]
           },
           "to": [
             {
@@ -149,7 +162,11 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "down_arrow"
+            "key_code": "down_arrow",
+            "modifiers": {
+                "optional": [
+                    "any"
+                ]
           },
           "to": [
             {
